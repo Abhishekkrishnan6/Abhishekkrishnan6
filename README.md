@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkrishnan6&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkrishnan6" /> </p>
 
-- 🔭 I’m currently working on the project college management system [College-management-system](https://github.com/Abhishekkrishnan6/student-management-system.git)
+- 🔭 I’m currently working on the project college management system [Hotel-management-system](https://https://github.com/Abhishekkrishnan6/Booking.git)
 
 - 📫 How to reach me **ak6726084@gmail.com**
 
